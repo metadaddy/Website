@@ -1,9 +1,13 @@
 # **Welcome to the World of EUC**
 ## Who we are
 We are a world of technology specialists, end users, consultants and developers. 
+
 We are vendor and platform agnostic.
+
 We are all things EUC.
+
 We are many. 
+
 We are community.
 
 Whilst we are an open community platform, there are currently 4 admins who can help you with requests and guidance as needed:
