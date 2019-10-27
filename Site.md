@@ -7,10 +7,10 @@ We are many.
 We are community.
 
 Whilst we are an open community platform, there are currently 4 admins who can help you with requests and guidance as needed:
-- Jarian Gibson [Jarian Gibson] - USA
-- James Kindon [James Kindon] - Australia
-- Ryan Revord [Ryan Revord] - USA
-- Dave Brett [Dave Brett] - UK
+- [Jarian Gibson] - USA
+- [James Kindon] - Australia
+- [Ryan Revord] - USA
+- [Dave Brett] - UK
 
 ## Where we came from
 There are many great community initiatives out there. Many of these initiatives existed within unique and individual slack channels or private forums. So far we have consolidated the following resources into world of EUC
@@ -36,7 +36,7 @@ We are not currently sponsored. We fund this platform (hosting, admin time etc) 
 
 If anyone has ideas or contributions they would like to add to this community, we are open to ideas. We welcome input and contributions in any way, however our core focus will be one of community and we will keep to that core above anything else. Should you wish to contribute and help in any way, do so knowing that we will not push any particular solution or technology
 
-[James Kindon]: <https://jkindon.com>
-[Jarian Gibson]: <>
-[Dave Brett]: <https://bretty.me.uk>
-[Ryan Revord]: <>
+[James Kindon]: <https://twitter.com/james_kindon>
+[Jarian Gibson]: <https://twitter.com/JarianGibson>
+[Dave Brett]: <https://twitter.com/dbretty>
+[Ryan Revord]: <https://twitter.com/rsrevord>
