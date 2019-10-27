@@ -17,7 +17,7 @@ Whilst we are an open community platform, there are currently 4 admins who can h
 - [Dave Brett] - UK
 
 ## Where we came from
-There are many great community initiatives out there. Many of these initiatives existed within unique and individual slack channels or private forums. So far we have consolidated the following resources into world of EUC
+There are many great community initiatives out there. Many of these initiatives existed within unique and individual slack channels or private forums. So far we have consolidated the following resources into the world of EUC:
 - World of WEM - Slack Channel
 - FSLogix Community - Slack Channel
 - NetScaler
@@ -36,7 +36,7 @@ No tricks, not BS, no politics, no allegiances to anything other than open shari
 We currently operate using the Slack platform. It's not perfect but it provides a uniformly understood solution that is easy to drive
 
 ## How to get involved
-We are not currently sponsored. We fund this platform (hosting, admin time etc) out of our on pockets. And we do so happily
+We are not currently sponsored. We fund this platform (hosting, admin time etc) out of our own pockets. And we do so happily
 
 If anyone has ideas or contributions they would like to add to this community, we are open to ideas. We welcome input and contributions in any way, however our core focus will be one of community and we will keep to that core above anything else. Should you wish to contribute and help in any way, do so knowing that we will not push any particular solution or technology
 
