@@ -7,12 +7,10 @@ We are many.
 We are community.
 
 Whilst we are an open community platform, there are currently 4 admins who can help you with requests and guidance as needed:
-| Name | Contact Details | Location |
-| ------ | ------ | ------ |
-| Jarian Gibson | [Jarian Gibson]| USA
-| James Kindon | [James Kindon]| Australia
-| Dave Brett | [Dave Brett]| UK
-| Ryan Revord | [Ryan Revord]| USA
+- Jarian Gibson [Jarian Gibson] - USA
+- James Kindon [James Kindon] - Australia
+- Ryan Revord [Ryan Revord] - USA
+- Dave Brett [Dave Brett] - UK
 
 ## Where we came from
 There are many great community initiatives out there. Many of these initiatives existed within unique and individual slack channels or private forums. So far we have consolidated the following resources into world of EUC
@@ -29,8 +27,10 @@ No tricks, not BS, no politics, no allegiances to anything other than open shari
 ## Rules of Engagement
 - **We will not tolderate abuse, politics or any form of crap against another member of this community**
 - We aim to, and will consistently ask you to utilise threads within the slack channels. We expect a level of professionalism and courtesy - **threads are critical**
+
 ## Platform
 We currently operate using the Slack platform. It's not perfect but it provides a uniformly understood solution that is easy to drive
+
 ## How to get involved
 We are not currently sponsored. We fund this platform (hosting, admin time etc) out of our on pockets. And we do so happily
 
