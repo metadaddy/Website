@@ -26,9 +26,9 @@ Resource | Previous Platform
 World of WEM | Slack
 FSLogix Community | Slack
 Labrats | Slack
-Citrix IRC | IRC
+Citrix IRC | Slack
 NetScaler Rocks | Slack
-EUC MOonitoring | Slack
+EUC Monitoring | Slack
 
 <!-- World of WEM - Slack Channel -->
 <!-- FSLogix Community - Slack Channel -->
