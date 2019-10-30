@@ -10,5 +10,20 @@ About: Consultant living the EUC dream
 
 Areas of Interest: Citrix, Windows, Cloud, Azure, Mobility
 
-<!---> <-->
+-------------------------
+
+<!---> Template:
+## Name
+
+Location:
+
+Twitter Handle: [@] ()
+
+About:
+
+Areas of Interest
+
+-------------------------
+
+<-->
 
