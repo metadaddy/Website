@@ -4,8 +4,6 @@ Don't see your profile? [Log a **Profile Addition** request](https://github.com/
 
 ## James Kindon
 
-!(https://twitter.com/james_kindon/photo)
-
 Location: Sydney, Australia
 
 Twitter Handle: [@James_Kindon](https://twitter.com/James_Kindon)
