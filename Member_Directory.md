@@ -18,7 +18,7 @@ Website: <https://JKindon.com>
 
 ## Dave Brett
 
-Location: England, UK
+Location: Liphook, UK
 
 Twitter Handle: [@dbretty](https://twitter.com/dbretty)
 
