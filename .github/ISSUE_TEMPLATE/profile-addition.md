@@ -7,11 +7,11 @@ assignees: JamesKindon, dbretty, worldofeuc
 
 ---
 
-**First Name**
-What is your First Name
+**Name** 
+First Name, Last Name
 
-**Last Name**
-What is your Last Name
+**Location**
+City, Country
 
 **Twitter Handle**
 What is your Twitter Handle @who_are_you
