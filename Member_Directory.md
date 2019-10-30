@@ -8,7 +8,7 @@ Location: Sydney, Australia
 
 Twitter Handle: [@James_Kindon](https://twitter.com/James_Kindon)
 
-About: Consultant living the EUC dream
+About: Consultant living the EUC dream, Citrix Technology Professional (CTP), CUGC Sydney Leader
 
 Areas of Interest: Citrix, Windows, Cloud, Azure, Mobility
 
