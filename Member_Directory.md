@@ -4,11 +4,13 @@
 
 Location: Sydney, Australia
 
-Twitter Handle: [@James_Kindon] <https://twitter.com/James_Kindon>
+Twitter Handle: @James_Kindon <https://twitter.com/James_Kindon>
 
 About: Consultant living the EUC dream
 
 Areas of Interest: Citrix, Windows, Cloud, Azure, Mobility
+
+Website: <https://JKindon.com>
 
 -------------------------
 
@@ -16,24 +18,29 @@ Areas of Interest: Citrix, Windows, Cloud, Azure, Mobility
 
 Location: England, UK
 
-Twitter Handle:
+Twitter Handle: @dbretty <https://twitter.com/dbretty>
 
-About
+About:
 
 Areas of Interest:
+
+Website: <https://bretty.me.uk/>
 
 -------------------------
 
 <!--- Template:
+
 ## Name
 
 Location:
 
-Twitter Handle: [@] ()
+Twitter Handle: @ (https://twitter.com/)
 
 About:
 
 Areas of Interest
+
+Website: <>
 
 -------------------------
 
