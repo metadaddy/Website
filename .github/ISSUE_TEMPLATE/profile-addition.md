@@ -8,15 +8,16 @@ assignees: JamesKindon, dbretty, worldofeuc
 ---
 
 **First Name**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+What is your First Name
 
 **Last Name**
-A clear and concise description of what you want to happen.
+What is your Last Name
 
 **Twitter Handle**
-A clear and concise description of any alternative solutions or features you've considered.
+What is your Twitter Handle @who_are_you
 
 **About Me**
-Add any other context or screenshots about the feature request here.
+A little about you
 
 **Areas of Interest**
+What areas interest you
