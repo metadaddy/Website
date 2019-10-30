@@ -12,6 +12,18 @@ Areas of Interest: Citrix, Windows, Cloud, Azure, Mobility
 
 -------------------------
 
+## Dave Brett
+
+Location: England, UK
+
+Twitter Handle:
+
+About
+
+Areas of Interest:
+
+-------------------------
+
 <!--- Template:
 ## Name
 
