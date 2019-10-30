@@ -1,5 +1,7 @@
 # **Member Directory**
 
+Don't see your profile? [Log a **Profile Addition** request](https://github.com/worldofeuc/Website/issues/new/choose)
+
 ## James Kindon
 
 Location: Sydney, Australia
