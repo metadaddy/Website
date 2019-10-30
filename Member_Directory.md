@@ -4,7 +4,7 @@
 
 Location: Sydney, Australia
 
-Twitter Handle: @James_Kindon <https://twitter.com/James_Kindon>
+Twitter Handle: [@James_Kindon](https://twitter.com/James_Kindon)
 
 About: Consultant living the EUC dream
 
@@ -18,7 +18,7 @@ Website: <https://JKindon.com>
 
 Location: England, UK
 
-Twitter Handle: @dbretty <https://twitter.com/dbretty>
+Twitter Handle: [@dbretty](https://twitter.com/dbretty)
 
 About:
 
@@ -34,7 +34,7 @@ Website: <https://bretty.me.uk/>
 
 Location:
 
-Twitter Handle: @ (https://twitter.com/)
+Twitter Handle: [@](https://twitter.com/)
 
 About:
 
