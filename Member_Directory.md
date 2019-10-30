@@ -4,7 +4,7 @@
 
 Location: Sydney, Australia
 
-Twitter Handle: [@James_Kindon] (https://twitter.com/James_Kindon)
+Twitter Handle: [@James_Kindon] <https://twitter.com/James_Kindon>
 
 About: Consultant living the EUC dream
 
@@ -12,7 +12,7 @@ Areas of Interest: Citrix, Windows, Cloud, Azure, Mobility
 
 -------------------------
 
-<!---> Template:
+<!--- Template:
 ## Name
 
 Location:
@@ -25,5 +25,5 @@ Areas of Interest
 
 -------------------------
 
-<-->
+-->
 
