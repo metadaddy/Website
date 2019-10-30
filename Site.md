@@ -10,6 +10,8 @@ We are many.
 
 We are community.
 
+Browse our [Members Directory](https://worldofeuc.github.io/Website/Member_Directory)
+
 ## Admin help and support
 
 Whilst we are an open community platform, there are currently 4 admins who can help you with requests and guidance as needed:
