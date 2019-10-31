@@ -59,6 +59,8 @@ We structure our channels in a simple and easy to follow method:
 ## How to get involved
 We are not currently sponsored. The platform is funded where required by the community.
 
+If you would like to join, we have a standing open invite link [here](https://t.co/UEBgTHRDXF)
+
 If anyone has ideas or contributions they would like to add to this community, we are open. We welcome input and contributions in any way, however our core focus will be one of community and we will keep to that core above anything else. Should you wish to contribute and help in any way, do so knowing that we will not push any particular solution or technology
 
 [James Kindon]: <https://twitter.com/james_kindon>
