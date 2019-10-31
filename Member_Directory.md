@@ -30,6 +30,20 @@ Website: <https://bretty.me.uk/>
 
 -------------------------
 
+## Ryan Revord
+
+Location: Omaha, USA
+
+Twitter Handle: [@rsrevord](https://twitter.com/rsrevord)
+
+About: Father of 5, barely holding on to sanity....
+
+Areas of Interest: Citrix/Security, Camping, Geeky stuff, snowboarding, cars.
+
+Website: <http://citrixirc.com>
+
+-------------------------
+
 <!--- Template:
 
 ## Name
@@ -40,11 +54,10 @@ Twitter Handle: [@](https://twitter.com/)
 
 About:
 
-Areas of Interest
+Areas of Interest:
 
 Website: <>
 
 -------------------------
 
 -->
-
