@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# **Welcome to the World of EUC**
+## Who we are
+We are a world of technology specialists, end users, consultants and developers. 
 
-You can use the [editor on GitHub](https://github.com/worldofeuc/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are vendor and platform agnostic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are all things EUC.
 
-### Markdown
+We are many. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are community.
 
-```markdown
-Syntax highlighted code block
+Browse our [Members Directory](https://worldofeuc.github.io/Website/Member_Directory)
 
-# Header 1
-## Header 2
-### Header 3
+## Admin help and support
 
-- Bulleted
-- List
+Whilst we are an open community platform, there are currently 4 admins who can help you with requests and guidance as needed:
+- [Jarian Gibson] - USA
+- [James Kindon] - Australia
+- [Ryan Revord] - USA
+- [Dave Brett] - UK
 
-1. Numbered
-2. List
+## Where we came from
+There are many great community initiatives out there. Many of these initiatives existed within unique and individual slack channels or private forums. So far we have consolidated the following resources into the world of EUC:
 
-**Bold** and _Italic_ and `Code` text
+Resource | Previous Platform
+-------- | -----------------
+World of WEM | Slack
+FSLogix Community | Slack
+Labrats | Slack
+Citrix IRC | Slack
+NetScaler Rocks | Slack
+EUC Monitoring | Slack
 
-[Link](url) and ![Image](src)
-```
+<!-- World of WEM - Slack Channel -->
+<!-- FSLogix Community - Slack Channel -->
+<!-- Labrats - Slack Channel -->
+<!-- Citrix IRC -->
+<!-- NetScaler - Slack Channel -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Why we are here
+Our aim is to provide a central and community based platform to allow like minded individuals across the globe to collaborate with each other.
 
-### Jekyll Themes
+We also aim to offer an environment for all Vendors, products, solution providers to participate in active communications with end users, in whatever level they feel is appropriate. We have active product managers from select technology providers who are actively involved in these channels.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/worldofeuc/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+No tricks, not BS, no politics, no allegiances to anything other than open sharing.
+## Rules of engagement
+- **We will not tolderate abuse, politics or any form of crap against another member of this community**
+- We aim to, and will consistently ask you to utilise threads within the slack channels. We expect a level of professionalism and courtesy - **threads are critical**
 
-### Support or Contact
+## Platform
+We currently operate using the Slack platform. It's not perfect but it provides a uniformly understood solution that is easy to drive.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We structure our channels in a simple and easy to follow method:
+* Channels prefixed with an underscore ("**_**") are general discussion channels within a certain criteria - think General chat, Community events, GPU discussions etc
+* Channels prefixed with a dash ("**-**") are for community driven initiatives and projects - think BIS-F, PowerScale, EUCMonitoring
+* All other channels with no prefix are vendor or technology specific - think ControlUp, Citrix Cloud, Microsoft FSLogix or Nutanix
+
+## How to get involved
+We are not currently sponsored. The platform is funded where required by the community.
+
+If you would like to join, we have a standing open invite link [here](https://t.co/UEBgTHRDXF)
+
+If anyone has ideas or contributions they would like to add to this community, we are open. We welcome input and contributions in any way, however our core focus will be one of community and we will keep to that core above anything else. Should you wish to contribute and help in any way, do so knowing that we will not push any particular solution or technology
+
+[James Kindon]: <https://twitter.com/james_kindon>
+[Jarian Gibson]: <https://twitter.com/JarianGibson>
+[Dave Brett]: <https://twitter.com/dbretty>
+[Ryan Revord]: <https://twitter.com/rsrevord>
