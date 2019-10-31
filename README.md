@@ -43,7 +43,7 @@ Our aim is to provide a central and community based platform to allow like minde
 
 We also aim to offer an environment for all Vendors, products, solution providers to participate in active communications with end users, in whatever level they feel is appropriate. We have active product managers from select technology providers who are actively involved in these channels.
 
-No tricks, not BS, no politics, no allegiances to anything other than open sharing.
+No tricks, no BS, no politics, no allegiances to anything other than open sharing.
 ## Rules of engagement
 - **We will not tolderate abuse, politics or any form of crap against another member of this community**
 - We aim to, and will consistently ask you to utilise threads within the slack channels. We expect a level of professionalism and courtesy - **threads are critical**
